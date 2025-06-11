@@ -121,22 +121,22 @@ server.port=8080
 ## 📸 Screenshot Guidelines
 
 ### 🔹 Delete_task.
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/delete_task.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/delete_task.png)
 
 ### 🔹 Execute the task.
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/execute_the_task%20by%20shell.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/execute_the_task%20by%20shell.png)
 
 ### 🔹 Find Task by Name.
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/find_task%20by%20name.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/find_task%20by%20name.png)
 
 ### 🔹 Get All Task .
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/get_task.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/get_task.png)
 
 ### 🔹 Get Task_by_id.
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/get_task_by_id.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/get_task_by_id.png)
 
 ### 🔹 Put Task.
-![POST API](https://github.com/seenivasaperumal46/kaiburr_task1/blob/998039cfb95469d56f7ac0bd6b9f930019a11671/put_task.png)
+![POST API](https://github.com/seenivasaperumal46/Kaiburr-task-1/blob/d6a5cc5c35ef180356dac9051cdb032ca9590c61/task-manager/photos/put_task.png)
 
 ---
 
